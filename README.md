@@ -1,4 +1,4 @@
-# About XYZ
+# About XYZ Treadmills
 XYZ is a leading brand in the field of fitness equipment. XYZ provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
 # Business Problem
